@@ -1,0 +1,16 @@
+extends: airbnb-base
+plugins:
+    - import
+rules:
+    indent:
+        - error
+        - 4
+    no-shadow: 0
+    no-bitwise: 0
+    no-console: 0
+    no-plusplus: 0
+    no-continue: 0
+    no-param-reassign: 0
+    no-mixed-operators: 0
+    no-constant-condition: 0
+    space-before-function-paren: 0
